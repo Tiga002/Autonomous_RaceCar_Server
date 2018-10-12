@@ -13,3 +13,7 @@ rosrun serial_communication send_command.py
 ```
 roslaunch racecar_navigation RaceCar_Navigation_PID.launch
 ```
+***the launch file is located at***
+```
+catkin_ws/src/racecar_navigation/launch
+```
